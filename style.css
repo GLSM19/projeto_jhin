@@ -43,7 +43,7 @@
 }
 
 body{
-    background:url(/Html/imagens/fundojhin.jpg);
+    background:url(./imagens/fundojhin.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     font-family: var(--fonte-padrao);
